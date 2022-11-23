@@ -1,0 +1,53 @@
+{
+  "Bot": {
+    "Token": "",
+    "MongoURL": "",
+    "Owners": [""],
+    "Prefix": ["!", ".", "s!"]
+  },
+
+  "Server": {
+    "GuildID": "904767623810650182"
+  },
+
+  "Emoji": {
+    "TickEmoji": "<:juq_yes:976939143290572901>",
+    "RedEmoji": "<:juq_no:976939024524673064>",
+    "YıldızEmoji": "<:juq_star:915712726096048148>",
+    "LoadingEmoji": "976938891535872114",
+    "OrtaDoluBar": "<:juqest_middle:906256544524533790>",
+    "OrtaBoşBar": "<:juq_middleempty:899248231018553345>",
+    "StartDoluBar": "<a:juqest_start:906256544532930671>",
+    "StartBoşBar": "<:juq_startempty:899248230804619375>",
+    "FinishDoluBar": "<a:juqest_end:906256544662958151>",
+    "FinishBoşBar": "<:juq_finishempty:899248231291191376>",
+    "Number1": "976939408345432064",
+    "Number2": "976939470840533092",
+    "Number3": "976939561378807899",
+    "Number4": "976939996583977051"
+  },
+
+
+  "Channels": {
+    "Chat": "979123464134877204",
+    "Register": "980431934138232912",
+    "Tag": "979121948778975232",
+    "TagAyrıcalıkları": "979121948778975232",
+    "Yetkili": "980245076594786324"
+  },
+
+  "Tag": {
+    "TagRolü": "980431899375828992",
+    "Tag": "gng",
+    "Tags": ["gng","Gng","GNG","#2320","0232"]
+  },
+
+  "Roles": {
+    "BoosterRolü": "905031666576265216"
+  },
+
+
+  "GifPp": {
+    "BanGif": "https://cdn.discordapp.com/attachments/787761299374211072/787857265452777502/giphy.gif"
+  }
+}
