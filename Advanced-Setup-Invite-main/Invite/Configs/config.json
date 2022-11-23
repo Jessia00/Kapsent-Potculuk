@@ -1,0 +1,13 @@
+{
+  "Bot": {
+    "Token": "",
+    "MongoURL": "",
+    "Owners": [""],
+    "Prefix": ["!", ".", "s!"]
+  },
+
+   "Emoji": {
+    "TickEmoji": "<:juq_yes:976939143290572901>",
+    "RedEmoji": "<:juq_no:976939024524673064>"    
+  }
+}
